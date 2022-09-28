@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CarouselDemo</string>
+    <string name="no_data">No Data Found</string>
+    <string name="mSearch">Search Here</string>
+    <string name="str_loading">Loading…</string>
+</resources>
